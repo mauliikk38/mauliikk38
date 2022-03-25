@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauliikk38
 - 👀 I’m interested in WEB DEVELOPMENT.
-- 🌱 I’m currently REACT-JS AND REDUX.
+- 🌱 I’m currently learning on REACT-JS AND REDUX.
 - 📫 How to reach me on maulikkotadiya60@gmai.com
 
 <!---
